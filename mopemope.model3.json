@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "mopemope.moc3",
+		"Textures": [
+			"mopemope.1024/texture_00.png"
+		],
+		"DisplayInfo": "mopemope.cdi3.json"
+	}
+}
