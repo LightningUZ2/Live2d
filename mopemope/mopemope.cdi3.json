@@ -1,0 +1,90 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴部　变形"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "身体旋转　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Folder20",
+			"Name": "上面"
+		},
+		{
+			"Id": "Folder21",
+			"Name": "下面"
+		},
+		{
+			"Id": "Folder19",
+			"Name": "脸上的"
+		},
+		{
+			"Id": "Folder18",
+			"Name": "花瓣"
+		},
+		{
+			"Id": "Folder16",
+			"Name": "根"
+		},
+		{
+			"Id": "Folder15",
+			"Name": "叶片"
+		},
+		{
+			"Id": "Folder5",
+			"Name": "双眼"
+		},
+		{
+			"Id": "Folder17",
+			"Name": "嘴巴"
+		}
+	]
+}
